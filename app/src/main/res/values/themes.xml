@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Yenibihobi" parent="android:Theme.Material.Light.NoActionBar" >
+        <item name="badgeStyle">@style/CustomBadge</item>
+    </style>
+
+    <style name="CustomBadge" parent="@style/Widget.MaterialComponents.Badge">
+        <item name="backgroundColor">@color/g_blue</item>
+    </style>
+
+
+
+
+</resources>

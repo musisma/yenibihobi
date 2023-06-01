@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "86002391593",
+    "project_id": "yenibihobi-4ad3d",
+    "storage_bucket": "yenibihobi-4ad3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86002391593:android:4c807632bc06966a059a38",
+        "android_client_info": {
+          "package_name": "com.example.yenibihobi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86002391593-mne7501473r8av63lp5praci1kl5ij86.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-zGBPHnxSrsyxP-HXjIoLk6KhM-CkMzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86002391593-mne7501473r8av63lp5praci1kl5ij86.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
